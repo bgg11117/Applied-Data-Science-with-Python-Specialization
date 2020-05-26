@@ -4,8 +4,7 @@ Here are the course files from the [Coursera Applied Data Science with Python Sp
 
 ---
 
-I'm running the `.ipynb` files either:
-* online on Coursera or
-* offline using [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/).
+I'm running the `.ipynb` files:
+* online on Coursera
 
 My code can be found in the 'Assignment' `.ipynb` files.
